@@ -1,0 +1,1 @@
+audio_play_sound(sndGirl1,10,false) 

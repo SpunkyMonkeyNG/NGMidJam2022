@@ -1,0 +1,1 @@
+ global.daycount = 1
